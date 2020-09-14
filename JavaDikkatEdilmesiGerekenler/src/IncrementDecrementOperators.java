@@ -32,9 +32,11 @@ public class IncrementDecrementOperators {
 		System.out.println("Arttýrma iþlemi yaptýktan sonra ayný degeri cagýrdýgýmýzda " + sayi);
 		
 		// Alttaki örnekler ile þunu anlýyoruz post da iþlem yapýlýr sonra atanýr.Prede sayý deðiþir sonra iþlem yapýlýr.
+		
 		int sayi2=10 ;
 		System.out.println(--sayi2);
 		System.out.println(sayi2);
+		
 		
 		int sayi3=5;
 		int yeniSayi= sayi3*sayi3++;
